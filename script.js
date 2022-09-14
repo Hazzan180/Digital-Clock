@@ -1,3 +1,4 @@
+//Created By Hazzan Tech
 update()
 setInterval(update, 1000)
 
@@ -25,3 +26,4 @@ function formatZero(time){
     return time.length < 2 ? "0" +  time : time
 }
 }
+//Created By Hazzan Tech
